@@ -1,4 +1,4 @@
-# pengalaman-belajar di DiCOding
+# Pengalaman-Belajar di DicOding
 
 **14 Juni 2021**<br>
 Belajar kelas Memulai Pemrograman dengan Java. (Progres 21%)
